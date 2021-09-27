@@ -1,0 +1,36 @@
+<div class="mt-4">
+  <div class="container row">
+    <div class="col-lg-3">
+      
+        <div class="jumbotron">
+          <h1 class="display-4">Hello, Le!</h1>
+          <p class="lead">  <p>{{course.description}}</p>
+          </p>
+          <hr class="my-4" />
+          <p>It uses utility classes for typography and spacing to space content
+            out within the larger container.</p>
+          <p class="lead">
+            <a class="btn btn-primary btn-lg" href="#" role="button">Explore more</a>
+          </p>
+        </div>
+       Level: {{course.level}}
+      </ul>
+    
+
+
+    </div>
+
+    <div class="col-lg-9">
+         <h2 class="display-4">{{course.name}}</h2>
+      <iframe
+        width="560"
+        height="315"
+        src="https://www.youtube.com/embed/{{course.videoId}}"
+        frameborder="0"
+        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen
+      ></iframe>
+    </div>
+
+  </div>
+</div>
