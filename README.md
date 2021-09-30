@@ -29,9 +29,9 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 ![image info](./CRUD_Blog/src/public/img/Bin.PNG)
 
 Overall, that's all the services of this website\
-Thank you for visiting <3 \
+Thank you for visiting <3 
 
-   ------  You can end up reading right here and download the code for a more intuitive experiences ------
+  ### ----  You can end up reading right here and download the code for a more intuitive experiences ----
 
 
 ### `npm run build`
