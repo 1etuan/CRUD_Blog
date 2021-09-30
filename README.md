@@ -17,8 +17,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ![image info](./CRUD_Blog/src/public/img/Home.PNG)
 
-
-### Click on Profile Picture to see others Function below:
+### CLick on Profile Picture to access to the Function listed below:
 
 ## Create a course - Function: Update new courses 
 ![image info](./CRUD_Blog/src/public/img/Create.PNG)
@@ -31,7 +30,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 Overall, that's all the services of this website\
 Thank you for visiting <3 \
-Sorry for the inconvenience, I attempted to deploy the product but confronted some issues
 
    ------  You can end up reading right here and download the code for a more intuitive experiences ------
 
