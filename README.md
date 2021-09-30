@@ -29,9 +29,9 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 # Recycle Bin - Function: Restore or Force Delete Courses
 ![image info](./CRUD_Blog/src/public/img/Bin.PNG)
 
-Overall, that's all the services of this website.\
-Thank you for visiting <3 .\
-Sorry for the inconvenience, I attempted to deploy the product but confronted some issues.\
+Overall, that's all the services of this website\
+Thank you for visiting <3 \
+Sorry for the inconvenience, I attempted to deploy the product but confronted some issues\
 
    ------  You can end up reading right here and download the code for a more intuitive experiences ------
 
